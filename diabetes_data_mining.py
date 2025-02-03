@@ -108,7 +108,7 @@ print('KNN F1 Score:', knn_f1)
 print('KNN Confusion Matrix:\n', knn_conf_matrix)
 
 
-# In[11]:
+# In[4]:
 
 
 from sklearn.cluster import KMeans
